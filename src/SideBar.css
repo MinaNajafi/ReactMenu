@@ -1,0 +1,16 @@
+.show {
+    background-color: #585858;
+    width: 350px;
+    height: 100vh;
+    line-height: 100vh;
+    display: list-item;
+}
+
+
+.hidden {
+    background-color: #585858;
+    width: 70px;
+    height: 100vh;
+    line-height: 100vh;
+    padding-top: 80px;
+}
